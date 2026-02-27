@@ -12,7 +12,7 @@
 
 ## 3. Service Repositories
 Here are the GitHub links to all our microservices:
-- **Order Analytics Service (New):** https://github.com/XinyiZhao-cloud/CST8915_MidtermProject
+- **Order Analytics Service (New):** https://github.com/Shan-AC/CST8915-midtermporject/tree/master/order-analytics-service
 - **Store Front:** https://github.com/Shan-AC/store-front
 - **Order Service:** https://github.com/Shan-AC/order-service
 - **Product Service:** https://github.com/Shan-AC/product-service-python
